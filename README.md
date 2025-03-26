@@ -1,11 +1,20 @@
 # LiveQ
 
-This is frontend source code for LiveQ, an live application for instructor-student interactive question-answering during class. The backend source code is not being open-sourced yet.
+This is front-end source code for LiveQ, an live application for instructor-student interactive question-answering during class. The back-end source code is *not open-sourced yet* while discussions are held with institutions currently testing this software.
 
-## ✨ Specific Stacks
+## ✨ Technologies
 
-- 📄 [Vuetify](https://vuetifyjs.com/)
-- 🏬 [Vue.js](https://vuejs.org/)
+Frameworks:
+
+- [Vuetify](https://vuetifyjs.com/): Front-end framework
+- [Vue.js](https://vuejs.org/): Front-end UI framework
+- [Workery](https://workery.iann838.com): Back-end framework
+
+Deployment:
+
+- [Cloudflare Workers](https://developers.cloudflare.com/workers/): Serverless APIs.
+- [Cloudflare D1](https://developers.cloudflare.com/d1/): User sharded SQL databases.
+- [Cloudflare Pages](https://developers.cloudflare.com/pages/): Client side front-end application.
 
 ## 💿 Screenshots
 
