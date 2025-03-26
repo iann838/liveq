@@ -6,9 +6,9 @@ This is front-end source code for LiveQ, an live application for instructor-stud
 
 Frameworks:
 
-- [Vuetify](https://vuetifyjs.com/): Front-end framework
-- [Vue.js](https://vuejs.org/): Front-end UI framework
-- [Workery](https://workery.iann838.com): Back-end framework
+- [Vuetify](https://vuetifyjs.com/): Front-end framework.
+- [Vue.js](https://vuejs.org/): Front-end UI framework.
+- [Workery](https://workery.iann838.com): Back-end framework (has a very similar syntax to FastAPI, easily transcriptable).
 
 Deployment:
 
